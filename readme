@@ -1,3 +1,4 @@
+Credentials to check the admin panel(email:- pavan@gmail.com   , password:- pavan1234)
 User login/register with role-based redirection (user to dashboard, admin to panel).
 User dashboard: browse products, add/remove items to/from cart.
 Order popup on "Place Order" showing "Order Successful" with cart items and static quantity controls (+/- buttons).

@@ -4,3 +4,4 @@ User dashboard: browse products, add/remove items to/from cart.
 Order popup on "Place Order" showing "Order Successful" with cart items and static quantity controls (+/- buttons).
 Admin panel: create, update, delete products.
 Error handling to prevent crashes and show API error messages.
+link for the application:-   https://adapt-nxt-frontend-6bovfamsn-mpavan18s-projects.vercel.app/
